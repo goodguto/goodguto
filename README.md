@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">computer science student; <br>C.E.S.A.R. School; <br>learning everything; <br>currently learning C# and JAVA;</p>
+<p align="left">computer science student; <br>C.E.S.A.R. School; <br>learning everything; <br>currently learning C;</p>
 
 ###
 
